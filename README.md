@@ -9,7 +9,7 @@ npx create-react-app react-webpage
 
 ## 디자인
 디자인은 웹상에 공유되어 있는 디자인으로 작업하였다. 
-[피그마디자인](https://www.figma.com/file/zXRSGRGy7gvYemT3VaBNew/Untitled?type=design&node-id=0%3A1&mode=design&t=ZcwGGQ41IbjQFfeG-1)
+[피그마디자인](https://www.figma.com/file/zXRSGRGy7gvYemT3VaBNew/Untitled?type=design&node-id=0%3A1&mode=design&t=G9auL93GlJ8rQoDC-1)
 
 ## 작업순서
 - 1.필요없는 파일 삭제 

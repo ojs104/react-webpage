@@ -7,7 +7,7 @@
 리액트(React)는 페이스북에서 개발한 자바스크립트 라이브러리로, 사용자 인터페이스를 만들기 위한 라이브러리입니다. 리액트는 웹 애플리케이션을 개발할 때 사용되며, 싱글 페이지 애플리케이션(SPA)부터 모바일 앱과 데스크톱 애플리케이션까지 다양한 플랫폼에서 사용할 수 있습니다.
 
 ## 미리보기 
-https://webpage-react104.netlify.app/
+[https://webpage-react104.netlify.app/](https://react-webpage104.netlify.app/)
 
 ## 설치
 npx create-react-app react-webpage
